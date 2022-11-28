@@ -3,7 +3,7 @@
 Modern OpenGL with C++ for graphics rendering
 
 
-https://user-images.githubusercontent.com/58758359/204180845-b1647664-b63c-4b61-8faa-71b6a6f38365.mp4
+https://user-images.githubusercontent.com/58758359/204182065-3b5bc38e-8062-481b-bce9-8c3c705c1628.mp4
 
 
 This is a personal project to utilize modern OpenGL for graphics rendering.
